@@ -193,6 +193,12 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 
+### Tools
+
+| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| ApiFlash | ApiFlash | [Link](https://apiflash.com) | `Aktif` | ss web | `apiKey` |
+
 ### Utilitas
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
